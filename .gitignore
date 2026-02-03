@@ -8,3 +8,6 @@ a.out
 
 # Ignore debug files
 *.gdb
+
+# Ignore this folder 
+secondquestion/
